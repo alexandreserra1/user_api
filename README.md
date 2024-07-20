@@ -1,4 +1,4 @@
-# User Management API
+# User API
 
 ## Descrição
 
@@ -9,7 +9,7 @@ Esta API foi desenvolvida usando FastAPI e permite a criação, listagem e login
 1. Clone o repositório:
 
     ```bash
-    git clone <URL_DO_REPOSITORIO>
+    git clone <https://github.com/alexandreserra1/user_api.git>
     cd user_management_api
     ```
 
