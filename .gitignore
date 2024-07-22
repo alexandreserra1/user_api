@@ -1,0 +1,8 @@
+# Ignore Python bytecode files
+__pycache__/
+
+# Ignore virtual environment folder
+venv/
+
+# Ignore database file
+database.db
